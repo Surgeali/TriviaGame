@@ -1,0 +1,16 @@
+body {
+    background: url("../images/question-mark-background-vector-310x174.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 35px;
+};
+
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: serif; 
+};
+div#container {
+    background-color: blanchedalmond;
+}
